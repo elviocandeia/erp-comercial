@@ -1,0 +1,1 @@
+Sistema Comercial para auxilio na administração de pequenos comércio em geral.
